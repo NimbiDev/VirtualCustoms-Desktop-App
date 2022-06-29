@@ -36,4 +36,4 @@ Electron app for Virtual Customs.
 
 ---
 
-🧑‍⚖️ This is an unofficial application and not published or supported by Google llc. Intended for personal and educational purposes. I am liable for nothing.
+🧑‍⚖️ This is an unofficial application and not published or supported by Virtual Customs. This applicatiuon is intended for personal and/or educational purposes. I am liable for nothing.
