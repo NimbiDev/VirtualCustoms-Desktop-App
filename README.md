@@ -13,7 +13,7 @@
 <h1 align="center">Virtual Customs</h1>
 
 <p align="center">
-<img width=75% alt="2021-11-02 at 16 29 30" src="">
+<img width=75% src="https://who.is-yiffing.me/EYPziOu6CP.png">
 </p>
 
 Electron app for Virtual Customs.
