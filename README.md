@@ -13,7 +13,7 @@
 <h1 align="center">Virtual Customs</h1>
 
 <p align="center">
-<img width=75% src="https://who.is-yiffing.me/EYPziOu6CP.png">
+<img width=75% alt="preview" src="https://who.is-yiffing.me/EYPziOu6CP.png">
 <br />Electron app for Virtual Customs
 </p>
 
