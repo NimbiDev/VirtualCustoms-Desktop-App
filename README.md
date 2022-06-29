@@ -14,7 +14,7 @@
 
 <p align="center">
 <img width=75% src="https://who.is-yiffing.me/EYPziOu6CP.png">
-Electron app for Virtual Customs
+<br />Electron app for Virtual Customs
 </p>
 
 ---
