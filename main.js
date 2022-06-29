@@ -1,4 +1,3 @@
-// Modules to control application life and create native browser window
 const { app } = require("electron");
 const path = require("path");
 const { menubar } = require("menubar");
@@ -22,7 +21,8 @@ const mb = menubar({
   preloadWindow: true,
   icon: path.join(__dirname, "./MenuIcon.png"),
   webPreferences: {
-    partition: "persist:virtualcustoms",
+    nodeIntegration: true,
+    partition: "persist:virtualcustoms"
   },
 });
 
