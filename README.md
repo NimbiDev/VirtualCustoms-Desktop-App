@@ -16,7 +16,7 @@
 <img width=75% alt="2021-11-02 at 16 29 30" src="">
 </p>
 
-Electron app for Google Stadia.
+Electron app for Virtual Customs.
 
 ---
 
