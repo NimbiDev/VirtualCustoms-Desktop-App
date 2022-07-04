@@ -21,8 +21,8 @@ const mb = menubar({
   preloadWindow: true,
   icon: path.join(__dirname, "./MenuIcon.png"),
   webPreferences: {
-    nodeIntegration: true,
-    partition: "persist:virtualcustoms"
+    partition: "persist:virtualcustoms",
+    webgl: true,
   },
 });
 
