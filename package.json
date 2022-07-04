@@ -5,11 +5,7 @@
   "keywords": [],
   "main": "./main.js",
   "version": "1.0.0",
-  "author": "Sokcet Development",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Socket-Development/VirtualCustoms-Desktop-App.git"
-  },
+  "author": "NimbiDev <github.com/NimbiDev>",
   "license": "MIT",
   "scripts": {
     "start": "electron-forge start",
