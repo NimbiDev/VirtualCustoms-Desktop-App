@@ -38,7 +38,10 @@ mb.on("ready", () => {
   win = mb.window;
 
   win.loadURL("https://virtualcustoms.net/");
-
+  win.setBackgroundColor('#333333')
+  win.once('ready-to-show', () => {
+    win.show()
+  });
 });
 
 mb.on('after-create-window', () => {
